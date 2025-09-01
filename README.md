@@ -1,16 +1,31 @@
-## Hi there 👋
+## 🙋‍♂️ About Me:
 
-<!--
-**AhmedEzz999/AhmedEzz999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m looking forward to working as a **Software Engineer 💻** | **Mobile Application Developer 📱**.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Advanced Flutter**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at **[My Repository]([(https://github.com/AhmedEzz999?tab=repositories)])**.
+
+<br>
+
+## 🚀 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,github" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,vscode,figma,postman" /><br>
+</div>
+
+<br>
+
+
+## 🤝 Connect With Me:
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/ahmed-ezz-0395b6344/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+  <a href="mailto:ahmedezz9877@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+<br>
