@@ -35,8 +35,13 @@
 <br>
 
 ### 🔥 GitHub Streak
-  <p align="left">
-    <!-- <img src="https://github-readme-stats.vercel.app/api?username=AhmedEzz999&show_icons=true&theme=highcontrast" height="160"/> &nbsp; <!-- GitHub Stats -->
-    <img src="https://streak-stats.demolab.com/?user=AhmedEzz999&theme=highcontrast" height="160"/> &nbsp; <!-- GitHub Streak -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedEzz999&layout=compact&langs_count=6&theme=highcontrast" height="160"/> <!-- Most Used Languages -->
-  </p>
+
+<p align="center">
+  
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=AhmedEzz999&theme=highcontrast" width="49%"/>
+  
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmedEzz999&show_icons=true&theme=highcontrast" width="49%"/>
+  
+</p>
