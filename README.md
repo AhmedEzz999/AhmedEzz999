@@ -39,9 +39,6 @@
 <p align="center">
   
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=AhmedEzz999&theme=highcontrast" width="49%"/>
-  
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AhmedEzz999&show_icons=true&theme=highcontrast" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=AhmedEzz999&theme=highcontrast"/>
   
 </p>
