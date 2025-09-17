@@ -37,8 +37,6 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=AhmedEzz999&theme=highcontrast"/>
-  
+  <img src="https://streak-stats.demolab.com?user=AhmedEzz999&theme=highcontrast"/>
 </p>
